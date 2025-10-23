@@ -23,7 +23,7 @@ Key objectives include:
 | Component | Description |
 |------------|-------------|
 | **Framework** | Frappe Framework |
-| **Languages** | Python, JavaScript |
+| **Languages** | JavaScript |
 | **Database** | MariaDB (handled through Frappe) |
 | **Interface** | Frappe Web Platform |
 | **CI/CD** | Jenkins Pipeline |
