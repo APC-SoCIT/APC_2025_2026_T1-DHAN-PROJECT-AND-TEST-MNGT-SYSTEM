@@ -54,7 +54,7 @@ The Jenkins pipeline helps with:
 ## 👥 Contributors
 | Name | Role |
 |------|------|
-| **Carl Agot** (cpagot)** | Lead Developer / CI Integration |
+| **Carl Agot** | Lead Developer / CI Integration |
 | **Hans Maybituin** | Developer / Project Manager |
 | **Hans Maybituin** | Developer / UI & Testing |
 | **Daniel Louis Balubar** | Scrum Master / Documentation Lead |
